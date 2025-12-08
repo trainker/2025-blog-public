@@ -1,5 +1,5 @@
 {
 	"title": "关于本站",
-	"description": "一个基于 Github 的现代化博客系统",
-	"content": "📦网站基于 Github 仓库完全存储，所有内容版本可控\n\n🚀无后端，无 serverless function，纯静态站点\n\n✏️文章通过可视化 UI 直接编辑并提交到 Github 仓库\n\n🔑所有用户都可以编辑，提交需要 Owner 的 Private Key\n\n## 技术栈\n\n- Next.js\n- React\n- TypeScript\n- Tailwind CSS\n- Motion\n- Github API"
+	"description": "电气小白研究生的分享日常~",
+	"content": "📦纯正的工科研究生，研究方向是同步电机控制，以及一点点的电力电子，请大佬们多多指教。\n\n🚀网站的建设还在摸索中，欢迎大家提出idea~\n\n✏️会分享一些自己的日常生活、学习笔记、出游计划以及等等等等，欢迎志同道合的朋友们！\n\n🔑佛系更新，因为本人有点懒hh\n\n## 网站基于 Github 仓库完全存储，参考了YYsuni大佬的构建（非常感谢，省去了租用服务器和域名的麻烦）\n\n"
 }
